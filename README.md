@@ -1,6 +1,3 @@
-# Se (re)construire dans un monde numérique : Penser les crises à venir et défis futurs
-
-
 ## Génèse du cycle de conférence
 
 Les enjeux climatiques et écosystémiques commencent à être connus et compris de tous.
