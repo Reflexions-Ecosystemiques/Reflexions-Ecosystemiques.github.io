@@ -6,13 +6,14 @@ Les enjeux climatiques et écosystémiques commencent à être connus et compris
 
 
 ## Conférence du 8 Juin 2023
-### 17h au Collège Doctoral Europpéen (46 Bd de la Victoire, 67000 Strasbourg)
+__17h au Collège Doctoral Européen (46 Bd de la Victoire, 67000 Strasbourg)__
 
 Cette première conférence sera l'occasion d'accueillir deux orateurs :
 
 - Guillaume Morano, Agrégé de Philosophie, enseignant en Classes Préparatoires et auteur du livre "L'Âge du Minotaure, penser la technique". Il nous présentera ses réflexions autour de la "numérisation du réel".
 - Charles Boubel, Maître de Conférences à l'Université de Strasbourg et chercheur à l'IRMA. Il s'est récemment intéressé aux questions environnementales et à leur intégration au sein du monde de l'université et de la recherche. Il nous présentera sa pensée autour d'une intervention intitulée "Vivre et faire de la science dans une société qui détruit son cadre d'existence".
 
+__Cette conférence sera suivi d'un moment convivial autour d'un pot__
 
 ## Partenaires
 
