@@ -23,4 +23,4 @@ __Cette conférence sera suivi d'un moment convivial autour d'un pot.__
 
 
 ### Organisation 
-Thibaut Eloy - Charles Parmentier - Alexandre Stenger - Luc Vedrenne
+[Thibaut Eloy](mailto:thibaut.eloy@etu.unistra.fr) - Charles Parmentier - [Alexandre Stenger](mailto:alstenger@unistra.fr) - Luc Vedrenne
