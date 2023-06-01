@@ -6,6 +6,7 @@ Les enjeux climatiques et écosystémiques commencent à être connus et compris
 
 
 ## Conférence du 8 Juin 2023
+### 17h au Collège Doctoral Europpéen (46 Bd de la Victoire, 67000 Strasbourg)
 
 Cette première conférence sera l'occasion d'accueillir deux orateurs :
 
