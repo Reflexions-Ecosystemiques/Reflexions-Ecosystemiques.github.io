@@ -17,7 +17,10 @@ __Cette conférence sera suivi d'un moment convivial autour d'un pot.__
 
 ## Partenaires
 
-![irmia++](https://france.math.cnrs.fr/wp-content/uploads/2021/12/Unistra-iti-010_Carte_de_Visite.png)
+<p align="center">
+  <img src="https://france.math.cnrs.fr/wp-content/uploads/2021/12/Unistra-iti-010_Carte_de_Visite.png" />
+</p>
+
 
 ### Organisation 
 Thibaut Eloy - Charles Parmentier - Alexandre Stenger - Luc Vedrenne
