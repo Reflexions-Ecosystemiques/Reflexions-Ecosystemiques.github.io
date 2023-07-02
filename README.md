@@ -15,7 +15,7 @@ Cette première conférence sera l'occasion d'accueillir deux orateurs :
 
 __Cette conférence sera suivi d'un moment convivial autour d'un pot.__
 
-La conférence a été enregistré et est disponible en replay au lien suivant : https://www.youtube.com/watch?v=CagJaoKc2B4&ab_channel=R%C3%A9flexions%C3%A9cosyst%C3%A9miques
+La conférence a été enregistrée et est disponible en replay au lien suivant : https://www.youtube.com/watch?v=CagJaoKc2B4&ab_channel=R%C3%A9flexions%C3%A9cosyst%C3%A9miques
 
 ## Partenaires
 
