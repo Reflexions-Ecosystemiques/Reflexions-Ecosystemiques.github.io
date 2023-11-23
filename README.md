@@ -48,4 +48,10 @@ La conférence a été enregistrée et est disponible en replay en cliquant ci-d
 
 
 ### Organisation 
-[Thibaut Eloy](mailto:thibaut.eloy@etu.unistra.fr) - Charles Parmentier - [Alexandre Stenger](mailto:alstenger@unistra.fr) - Luc Vedrenne
+[Thibaut Eloy](mailto:thibaut.eloy@etu.unistra.fr) : Multidisciplinary PhD Student, Université de Strasbourg
+
+[Alexandre Stenger](mailto:alstenger@unistra.fr) : PhD Student in Image Analysis, Université de Strasbourg
+
+Charles Parmentier : Master Student in Philosophy, Université de Strasbourg
+
+Luc Vedrenne : PhD Student in Point Cloud Analysis, Université de Strasbourg
