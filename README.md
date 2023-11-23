@@ -7,7 +7,7 @@ Les enjeux climatiques et écosystémiques commencent à être connus et compris
 ## Ateliers du 14 Décembre 2023
 __De 13h30 à 16h30 en salle C32 de l'UFR de Maths-Informatiques__
 
-Pour participer aux ateliers précédent la conférence merci de vous [inscrire en cliquand sur ce lien](https://docs.google.com/forms/d/e/1FAIpQLSeadYCDrHvAUbFy6kUJnTu7qMF2v8SA0LvxBf-da7nee7xdow/viewform)
+Pour participer aux ateliers précédents la conférence merci de vous [inscrire en cliquand sur ce lien](https://docs.google.com/forms/d/e/1FAIpQLSeadYCDrHvAUbFy6kUJnTu7qMF2v8SA0LvxBf-da7nee7xdow/viewform)
 
 ## Conférence du 14 Décembre 2023
 __De 16h45 à 18h45 à l'UFR de Mathématiques et d'Informatique (5-7 Rue René Descartes, 67000 Strasbourg)__
