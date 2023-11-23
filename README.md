@@ -4,6 +4,11 @@
 
 Les enjeux climatiques et écosystémiques commencent à être connus et compris de tous. Néanmoins, la réaction individuelle face à l'ampleur des crises à venir peut être plurielle. De plus, le monde avance, de gré ou de force, autour du numérique avec tous les problèmes qu'il soulève, mais aussi les forces qu'il peut nous octroyer. À travers ce cycle de conférences, divers orateurs prendront la parole pour essayer de mieux comprendre et appréhender le moment historique auquel chaque individu fait face. Faut-il bifurquer ? Faut-il s'adapter ? Comment se construire en tant que jeune ou se reconstruire en tant que moins jeune ? Toutes ces questions et bien d'autres encore seront abordées au sein de ce cycle.
 
+## Ateliers du 14 Décembre 2023
+__De 13h30 à 16h30 en salle C32 de l'UFR de Maths-Informatiques__
+
+Pour participer aux ateliers précédent la conférence merci de vous [inscrire en cliquand sur ce lien](https://docs.google.com/forms/d/e/1FAIpQLSeadYCDrHvAUbFy6kUJnTu7qMF2v8SA0LvxBf-da7nee7xdow/viewform)
+
 ## Conférence du 14 Décembre 2023
 __De 16h45 à 18h45 à l'UFR de Mathématiques et d'Informatique (5-7 Rue René Descartes, 67000 Strasbourg)__
 
