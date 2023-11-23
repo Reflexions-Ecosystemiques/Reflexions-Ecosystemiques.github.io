@@ -24,6 +24,8 @@ __Cette conférence sera suivi d'un moment convivial autour d'un pot.__
 
 *TBA*
 
+# __Conférences Passées__
+
 ## Conférence du 8 Juin 2023
 __17h au Collège Doctoral Européen (46 Bd de la Victoire, 67000 Strasbourg)__
 
