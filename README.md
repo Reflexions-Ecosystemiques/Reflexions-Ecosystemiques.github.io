@@ -8,7 +8,7 @@ Les enjeux climatiques et écosystémiques commencent à être connus et compris
 __De 13h30 à 16h30 en salle C32 de l'UFR de Mathématiques et d'Informatique (5-7 Rue René Descartes, 67000 Strasbourg)__
 
 Les ateliers, animés par Emmanuel Prados auront pour but de vous proposer une modalité d’interaction qui s'appuie sur vos propres perceptions des enjeux, blocages et leviers d’actions et qui les articule avec des éléments scientifiques et un narratif spécifiquement construit à cet effet.
-Pour participer aux ateliers précédents la conférence merci de vous [inscrire en cliquand sur ce lien](https://docs.google.com/forms/d/e/1FAIpQLSeadYCDrHvAUbFy6kUJnTu7qMF2v8SA0LvxBf-da7nee7xdow/viewform)
+Pour participer aux ateliers précédents la conférence merci de vous [inscrire en cliquant sur ce lien](https://docs.google.com/forms/d/e/1FAIpQLSeadYCDrHvAUbFy6kUJnTu7qMF2v8SA0LvxBf-da7nee7xdow/viewform)
 
 ## Conférence du 14 Décembre 2023
 __De 16h45 à 18h45 au petit amphi maths à l'UFR de Mathématiques et d'Informatique (5-7 Rue René Descartes, 67000 Strasbourg)__
