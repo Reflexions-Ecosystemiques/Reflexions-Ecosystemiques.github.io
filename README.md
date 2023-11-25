@@ -22,6 +22,8 @@ Résumé :
 
 *Le secteur de l'électronique est exemplaire des dégâts provoqués par le modèle économique capitaliste dominant. Commown et d'autres coopératives d'intérêt collectif regroupées au sein du collectif des [Licoornes](https://www.licoornes.coop/) mettent en œuvre dès aujourd'hui des alternatives susceptibles d'amortir l'effondrement en cours. Le cas de Commown sera présenté en détail (gouvernance, modèle économique, etc.) et suivi d'échanges avec l'auditoire sur ses forces et faiblesses face à l'effondrement.*
 
+**Aucune inscriprion n'est nécessaire pour assister à la conférence**
+
 __Cette conférence sera suivi d'un moment convivial autour d'un pot.__
 
 ## Ateliers du 14 Décembre 2023 précédents la conférence
@@ -30,7 +32,8 @@ __De 13h30 à 16h30 en salle C32 de l'UFR de Mathématiques et d'Informatique (5
 La conférence d'Emmanuel Prados sera dense et éprouvante. L’objectif est de vous donner une vision systémique des enjeux actuels afin de vous aider à saisir en quoi et pourquoi les imaginaires de réponse actuellement fournis dans le débat public ne vous paraissent pas satisfaisants, puis de vous aider à ouvrir le champ des possibles en termes d’actions à mener et de philosophie de l’action. Quel sens donner à votre action dans un monde qui de tout façon est voué à s’effondrer ? Quelles actions concrètes peuvent réellement raisonner avec cette philosophie de l’action ? Vous comprendrez bien que faire tout cela en moins d'une heure est un challenge quasi impossible à réaliser ! Pour vous aider à mieux vous approprier les messages et propositions de la conférence, Emmanuel Prados animera en amont de celle-ci des ateliers de réflexions en petits groupes. Ils auront pour but de vous proposer une modalité d’interaction qui s'appuie sur vos propres perceptions des enjeux, blocages et leviers d’actions et qui les articule avec des éléments scientifiques et un narratif spécifiquement construit à cet effet.
 
 Il n'est pas nécessaire d'avoir participé aux ateliers pour suivre la conférence, mais ils permettront de mieux assimiler les notions abordées.
-Pour participer aux ateliers précédents la conférence merci de vous [inscrire en cliquant sur ce lien](https://docs.google.com/forms/d/e/1FAIpQLSeadYCDrHvAUbFy6kUJnTu7qMF2v8SA0LvxBf-da7nee7xdow/viewform)
+
+**Pour participer aux ateliers précédents la conférence merci de vous [inscrire en cliquant sur ce lien](https://docs.google.com/forms/d/e/1FAIpQLSeadYCDrHvAUbFy6kUJnTu7qMF2v8SA0LvxBf-da7nee7xdow/viewform)**
 
 
 ## Conférence du 22 Janvier 2024
