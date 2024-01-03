@@ -4,7 +4,17 @@
 
 Les enjeux climatiques et écosystémiques commencent à être connus et compris de tous. Néanmoins, la réaction individuelle face à l'ampleur des crises à venir peut être plurielle. De plus, le monde avance, de gré ou de force, autour du numérique avec tous les problèmes qu'il soulève, mais aussi les forces qu'il peut nous octroyer. À travers ce cycle de conférences, divers orateurs prendront la parole pour essayer de mieux comprendre et appréhender le moment historique auquel chaque individu fait face. Faut-il bifurquer ? Faut-il s'adapter ? Comment se construire en tant que jeune ou se reconstruire en tant que moins jeune ? Toutes ces questions et bien d'autres encore seront abordées au sein de ce cycle.
 
-## Conférence du 14 Décembre 2023 : Comprendre l'effondrement qui vient : causes, conséquences et marges de manoeuvre
+## Conférence du 22 Janvier 2024
+__Amphithéâtre du Collège Doctoral Européen (46 Bd de la Victoire, 67000 Strasbourg)__
+
+Pour cette troisième session du cycle de conférence, nous aurons le plaisir d'accueillir 
+
+- **Valérie D'Acremont**
+- **Aurore Bomptemps**
+
+# __Conférences Passées__
+
+## Conférence du 14 Décembre 2023
 __De 16h45 à 19h00 au petit amphi maths à l'UFR de Mathématiques et d'Informatique (5-7 Rue René Descartes, 67000 Strasbourg)__
 
 **Aucune inscriprion n'est nécessaire pour assister à la conférence**
@@ -27,31 +37,13 @@ Résumé :
 
 __Cette conférence sera suivi d'un moment convivial autour d'un pot.__
 
-## Atelier du 14 Décembre 2023 précédent la conférence
-__De 13h30 à 16h30 en salle C32 de l'UFR de Mathématiques et d'Informatique (5-7 Rue René Descartes, 67000 Strasbourg)__
-
-**Il n'est pas nécessaire d'avoir participé à l'atelier pour suivre la conférence, mais il permettra de mieux assimiler les notions abordées. Pour y participer merci de vous [inscrire en cliquant sur ce lien](https://docs.google.com/forms/d/e/1FAIpQLSeadYCDrHvAUbFy6kUJnTu7qMF2v8SA0LvxBf-da7nee7xdow/viewform)**
-
-La conférence d'Emmanuel Prados sera dense et éprouvante. L’objectif est de vous donner une vision systémique des enjeux actuels afin de vous aider à saisir en quoi et pourquoi les imaginaires de réponse actuellement fournis dans le débat public ne paraissent pas satisfaisants, puis de vous aider à ouvrir le champ des possibles en termes d’actions à mener et de philosophie de l’action. Quel sens donner à votre action dans un monde qui de tout façon est voué à s’effondrer ? Quelles actions concrètes peuvent réellement raisonner avec cette philosophie de l’action ? Vous comprendrez bien que faire tout cela en moins d'une heure est un challenge quasi impossible à réaliser ! Cet atelier a donc pour objectif de vous proposer une modalité d’interaction qui vous permettra de bien mieux vous approprier les messages et propositions de la conférence en s’appuyant sur vos propres perceptions des enjeux, blocages et leviers d’actions et en les articulant avec des éléments scientifiques et un narratif spécifiquement construit à cet effet.
-
-
-
-
-
-
-## Conférence du 22 Janvier 2024
-
-*TBA*
-
-# __Conférences Passées__
-
 ## Conférence du 8 Juin 2023
-__17h au Collège Doctoral Européen (46 Bd de la Victoire, 67000 Strasbourg)__
+__17h à l'Amphithéâtre du Collège Doctoral Européen (46 Bd de la Victoire, 67000 Strasbourg)__
 
 Cette première conférence sera l'occasion d'accueillir deux orateurs :
 
-- Guillaume Morano, Agrégé de Philosophie, enseignant en Classes Préparatoires et auteur du livre "L'Âge du Minotaure, penser la technique". Il nous présentera ses réflexions autour de la "numérisation du réel".
-- Charles Boubel, Maître de Conférences à l'Université de Strasbourg et chercheur à l'IRMA. Il s'est récemment intéressé aux questions environnementales et à leur intégration au sein du monde de l'université et de la recherche. Il nous présentera sa pensée autour d'une intervention intitulée "Vivre et faire de la science dans une société qui détruit son cadre d'existence".
+- **Guillaume Morano**, Agrégé de Philosophie, enseignant en Classes Préparatoires et auteur du livre "L'Âge du Minotaure, penser la technique". Il nous présentera ses réflexions autour de la "numérisation du réel".
+- **Charles Boubel**, Maître de Conférences à l'Université de Strasbourg et chercheur à l'IRMA. Il s'est récemment intéressé aux questions environnementales et à leur intégration au sein du monde de l'université et de la recherche. Il nous présentera sa pensée autour d'une intervention intitulée "Vivre et faire de la science dans une société qui détruit son cadre d'existence".
 
 __Cette conférence sera suivi d'un moment convivial autour d'un pot.__
 
