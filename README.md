@@ -8,6 +8,8 @@ Les enjeux climatiques et écosystémiques commencent à être connus et compris
 
 __De 17h à 19h à l'Amphithéâtre du Collège Doctoral Européen (46 Bd de la Victoire, 67000 Strasbourg)__
 
+**Aucune inscriprion n'est nécessaire pour assister à la conférence**
+
 Pour cette troisième session du cycle de conférence, nous aurons le plaisir d'accueillir 
 
 - **Valérie D'Acremont** Médecin et épidémiologiste, spécialiste en infectiologie et médecine tropicale, Valérie D’Acremont est responsable du secteur Santé globale et environnementale au Centre universitaire de médecine générale et santé publique ([Unisanté](https://www.unisante.ch/fr)). Elle dirige des projets de recherche visant à améliorer la prise en charge des patients vivant dans des pays à ressources limitées ou venant en Europe depuis les tropiques : pour ce faire, elle utilise entre autres des algorithmes d’aide à la décision clinique, qui permettent de réduire fortement la prescription d’antibiotiques et donc l’extension de l’antibiorésistance, tout en s’attelant à limiter l’impact de ces outils sur d’autres enjeux systémiques actuels, comme l’environnement et la cybersécurité.
@@ -29,8 +31,6 @@ __Cette conférence sera suivi d'un moment convivial autour d'un pot.__
 ## Conférence du 14 Décembre 2023. Comprendre l'effondrement qui vient : causes, conséquences et marges de manœuvre
 __De 16h45 à 19h00 au petit amphi maths à l'UFR de Mathématiques et d'Informatique (5-7 Rue René Descartes, 67000 Strasbourg)__
 
-**Aucune inscriprion n'est nécessaire pour assister à la conférence**
-
 Nous aurons l'honneur d'accueillir deux intervenants :
 
 - **Emmanuel Prados** est chercheur INRIA. Il a fondé et dirigé depuis sa création en 2010 l'équipe de recherche [STEEP](https://steep.inria.fr/) (Soutenabilité, Territoires, Environnent, Économie et Politique).   Il présentera une intervention intitulée : "Comprendre l'effondrement qui vient : causes, conséquences et marges de manœuvre". L’équipe STEEP travaille sur les risques systémiques globaux, dont le risque d’effondrement sociétal, et la mise en place d’outils d’aide à la décision visant à accélérer la mise en œuvre de transitions sociotechniques radicales permettant aux territoires d’être plus résilients et plus soutenables. Emmanuel Prados propose une vision systémique, globale et transdisciplinaire des enjeux sociétaux auxquels nous sommes aujourd’hui confrontés. Il est très régulièrement invité pour donner des conférences sur les risques systémiques globaux, en particulier sur le risque d’effondrement de société, ainsi que sur les blocages freinant l’action pour une transition écologique.
@@ -49,7 +49,7 @@ Résumé :
 
 __Cette conférence sera suivi d'un moment convivial autour d'un pot.__
 
-## Conférence du 8 Juin 2023
+## Conférence du 8 Juin 2023. La Numérisation du Réel : De sa conception philosophique à ses conséquences sociétales
 __17h à l'Amphithéâtre du Collège Doctoral Européen (46 Bd de la Victoire, 67000 Strasbourg)__
 
 Cette première conférence sera l'occasion d'accueillir deux orateurs :
