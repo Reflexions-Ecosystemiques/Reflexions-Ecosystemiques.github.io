@@ -65,6 +65,8 @@ La conférence a été enregistrée et est disponible en replay en cliquant ci-d
 
 ## Partenaires
 
+![alt text](https://github.com/Reflexions-Ecosystemiques/Reflexions-Ecosystemiques.github.io/blob/main/En-iti-healthtech_Large_Couleur_Brill_100pt.png)
+
 <p align="center">
   <img src="https://france.math.cnrs.fr/wp-content/uploads/2021/12/Unistra-iti-010_Carte_de_Visite.png" />
 </p>
