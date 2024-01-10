@@ -65,6 +65,8 @@ La conférence a été enregistrée et est disponible en replay en cliquant ci-d
 
 ## Partenaires
 
+![IMAGE ALT TEXT HERE](./En-iti-healthtech_Large_Couleur_Brill_100pt.png)
+
 <p align="center">
   <img src="https://github.com/Reflexions-Ecosystemiques/Reflexions-Ecosystemiques.github.io/blob/main/En-iti-healthtech_Large_Couleur_Brill_100pt.png"/>
 </p>
