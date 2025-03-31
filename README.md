@@ -4,11 +4,9 @@
 
 Les enjeux climatiques et écosystémiques commencent à être connus et compris de tous. Néanmoins, la réaction individuelle face à l'ampleur des crises à venir peut être plurielle. De plus, le monde avance, de gré ou de force, autour du numérique avec tous les problèmes qu'il soulève, mais aussi les forces qu'il peut nous octroyer. À travers ce cycle de conférences, divers orateurs prendront la parole pour essayer de mieux comprendre et appréhender le moment historique auquel chaque individu fait face. Faut-il bifurquer ? Faut-il s'adapter ? Comment se construire en tant que jeune ou se reconstruire en tant que moins jeune ? Toutes ces questions et bien d'autres encore seront abordées au sein de ce cycle.
 
+# __Conférences Passées__
+
 ## Conférence du 22 Janvier 2024. Santé, environnement, technologie : Quels compromis éthiques ?
-
-__De 17h à 19h à l'Amphithéâtre du Collège Doctoral Européen (46 Bd de la Victoire, 67000 Strasbourg)__
-
-**Aucune inscriprion n'est nécessaire pour assister à la conférence**
 
 Pour cette troisième session du cycle de conférence, nous aurons le plaisir d'accueillir 
 
@@ -22,11 +20,7 @@ Résumé :
 
 Résumé : 
 
-*A venir*
-
-__Cette conférence sera suivi d'un moment convivial autour d'un pot.__   
-
-# __Conférences Passées__
+*non disponible*
 
 ## Conférence du 14 Décembre 2023. Comprendre l'effondrement qui vient : causes, conséquences et marges de manœuvre
 __De 16h45 à 19h00 au petit amphi maths à l'UFR de Mathématiques et d'Informatique (5-7 Rue René Descartes, 67000 Strasbourg)__
