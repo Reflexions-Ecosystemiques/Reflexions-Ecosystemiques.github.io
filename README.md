@@ -18,6 +18,30 @@ Résumé :
 
 - **Aurore Bontemps** est membre des [Shifters](https://www.theshifters.org/), association de bénévoles qui contribue à diffuser les travaux du [Shift Project](https://theshiftproject.org/) au près des élus et du grand public. A travers une approche systémique, le Shift Project propose des solutions concrètes pour rendre l'économie Française moins dépendante des combustibles fossiles, et lui permettre de suivre une trajectoire de réduction des émissions respectant les accords de Paris. Il a pour cela produit le Plan de Transformation de l'Economie Française ([PTEF](https://theshiftproject.org/crises-climat-plan-de-transformation-de-leconomie-francaise/)) dont Aurore Bomptemps présentera le focus sur le secteur de la santé.
 
+Résumé : 
+
+*non disponible*
+
+## Conférence du 14 Décembre 2023. Comprendre l'effondrement qui vient : causes, conséquences et marges de manœuvre
+__De 16h45 à 19h00 au petit amphi maths à l'UFR de Mathématiques et d'Informatique (5-7 Rue René Descartes, 67000 Strasbourg)__
+
+Nous aurons l'honneur d'accueillir deux intervenants :
+
+- **Emmanuel Prados** est chercheur INRIA. Il a fondé et dirigé depuis sa création en 2010 l'équipe de recherche [STEEP](https://steep.inria.fr/) (Soutenabilité, Territoires, Environnent, Économie et Politique).   Il présentera une intervention intitulée : "Comprendre l'effondrement qui vient : causes, conséquences et marges de manœuvre". L’équipe STEEP travaille sur les risques systémiques globaux, dont le risque d’effondrement sociétal, et la mise en place d’outils d’aide à la décision visant à accélérer la mise en œuvre de transitions sociotechniques radicales permettant aux territoires d’être plus résilients et plus soutenables. Emmanuel Prados propose une vision systémique, globale et transdisciplinaire des enjeux sociétaux auxquels nous sommes aujourd’hui confrontés. Il est très régulièrement invité pour donner des conférences sur les risques systémiques globaux, en particulier sur le risque d’effondrement de société, ainsi que sur les blocages freinant l’action pour une transition écologique.
+
+Résumé :
+
+*L’humanité est aujourd’hui confrontée à des défis sans précédent et étroitement entremêlés. On entend désormais quotidiennement parler de « crises » qu’elles soient sanitaires, environnementales, financières, de la dette, économiques, monétaires, politiques, démocratiques, sociales, des réfugiés, géopolitiques (dont conflits armés) etc. Comment comprendre et interpréter cette accumulation de difficultés ? Celles-ci sont-elles passagères ou sont-elles dues à des phénomènes plus profonds comme un déclin inévitable ou un effondrement de société ?
+De façon à mieux appréhender et comprendre ces phénomènes, nous nous appuierons tout d’abord sur des analyses scientifiques qui décrivent les mécanismes en jeu. Nous nous interrogerons ensuite sur la situation actuelle de notre société contemporaine, sur les conséquences de ces phénomènes ainsi que sur nos marges de manœuvre. Puis, nous spécifierons les enjeux sociopolitiques de fond qu’elles posent et qui ne sont jamais clairement explicités dans le débat public. Nous aborderons enfin explicitement les questions (foncièrement politiques) concernant l’action à mener et évoquerons des éléments de réponse.*
+
+- **Florent Cayré**, co-fondateur de [Commown](https://commown.coop/), Société Coopérative d'Intérêt Collectif (SCIC) strasbourgeoise née en 2018, qui s'est créée pour rendre l'électronique grand public moins irresponsable, en mettant en œuvre une alternative innovante de gouvernance et de modèle économique non capitaliste visant à rendre le secteur de l'électronique plus soutenable.
+
+Résumé :
+
+*Le secteur de l'électronique est exemplaire des dégâts provoqués par le modèle économique capitaliste dominant. Commown et d'autres coopératives d'intérêt collectif regroupées au sein du collectif des [Licoornes](https://www.licoornes.coop/) mettent en œuvre dès aujourd'hui des alternatives susceptibles d'amortir l'effondrement en cours. Le cas de Commown sera présenté en détail (gouvernance, modèle économique, etc.) et suivi d'échanges avec l'auditoire sur ses forces et faiblesses face à l'effondrement.*
+
+
+__Cette conférence sera suivi d'un moment convivial autour d'un pot.__
 
 ## Conférence du 8 Juin 2023. La Numérisation du Réel : De sa conception philosophique à ses conséquences sociétales
 __17h à l'Amphithéâtre du Collège Doctoral Européen (46 Bd de la Victoire, 67000 Strasbourg)__
