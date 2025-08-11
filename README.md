@@ -67,7 +67,6 @@ La conférence a été enregistrée et est disponible en replay en cliquant ci-d
 
 
 ### Organisation 
-[Thibaut Eloy](mailto:thibaut.eloy@etu.unistra.fr) : PhD Student in Image Analysis, Université de Strasbourg
 
 [Alexandre Stenger](mailto:alstenger@unistra.fr) : PhD Student in Image Analysis, Université de Strasbourg
 
